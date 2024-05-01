@@ -1,0 +1,37 @@
+{
+    "total_posted": 1474, 
+    "categories": 
+    {
+        "Accounting": 84, 
+        "Administration_and_Office_Support": 84, 
+        "Advertisingor_Arts_and_Media": 18, 
+        "Banking_and_Financial_Services": 48, 
+        "Call_Centre_and_Customer_Service": 28, 
+        "CEO_and_General_Management": 1, 
+        "Community_Services_and_Development": 61, 
+        "Construction": 63, 
+        "Consulting_and_Strategy": 13, 
+        "Design_and_Architecture": 14, 
+        "Education_and_Training": 84, 
+        "Engineering": 30, 
+        "Farmingor_Animals_and_Conservation": 3, 
+        "Government_and_Defence": 107, 
+        "Healthcare_and_Medical": 136, 
+        "Hospitality_and_Tourism": 99, 
+        "Human_Resources_and_Recruitment": 41, 
+        "Information_and_Communication_Technology": 127, 
+        "Insurance_and_Superannuation": 17, 
+        "Legal": 45, 
+        "Manufacturingor_Transport_and_Logistics": 80, 
+        "Marketing_and_Communications": 45, 
+        "Miningor_Resources_and_Energy": 2, 
+        "Real_Estate_and_Property": 43, 
+        "Retail_and_Consumer_Products": 65, 
+        "Sales": 67, 
+        "Science_and_Technology": 11, 
+        "Self_Employment": 1, 
+        "Sport_and_Recreation": 8, 
+        "Trades_and_Services": 122
+    }, 
+    "posted_time": "2024-04-30 23:00"
+}
